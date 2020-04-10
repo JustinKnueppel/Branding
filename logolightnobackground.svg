@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="15.909269mm"
-   height="15.701059mm"
-   viewBox="0 0 15.909269 15.701059"
+   width="135.46667mm"
+   height="135.46667mm"
+   viewBox="0 0 135.46667 135.46667"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -53,7 +53,7 @@
        x2="85.524879"
        y2="119.53728"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.454014,-1.9011836)" />
+       gradientTransform="matrix(8.6278677,0,0,8.6278681,-532.41433,-973.59858)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -62,9 +62,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.3242353"
-     inkscape:cx="37.303018"
-     inkscape:cy="28.123774"
+     inkscape:zoom="1"
+     inkscape:cx="11.68596"
+     inkscape:cy="188.1238"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -86,67 +86,50 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-69.293883,-109.78556)">
+     transform="translate(-71.157715,9.9800485)">
     <circle
-       style="fill:none;fill-opacity:0.00490196;stroke:url(#linearGradient4631);stroke-width:0.26458332"
+       style="fill:none;fill-opacity:0.00490196;stroke:url(#linearGradient4631);stroke-width:2.28278995"
        id="path4625"
-       cx="77.352623"
-       cy="117.63609"
-       r="7.7182379" />
+       cx="138.89105"
+       cy="57.753288"
+       r="66.591942" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     transform="translate(-69.293883,-109.78556)">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3714"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion3716"><rect
-           id="rect3718"
-           width="231.42857"
-           height="171.42857"
-           x="182.85715"
-           y="353.94824" /></flowRegion><flowPara
-         id="flowPara3720" /></flowRoot>    <ellipse
-       style="fill:none;fill-opacity:1;stroke-width:0.26458332"
-       id="path4613"
-       cx="76.685799"
-       cy="116.41593"
-       rx="7.3919153"
-       ry="6.0724368" />
+     inkscape:label="Text"
+     transform="translate(-71.157715,9.9800485)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.43462753px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26086566"
-       x="74.3255"
-       y="122.7244"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.38947296px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2.23473644"
+       x="120.36239"
+       y="87.381493"
        id="text3788"
-       transform="scale(1.0142512,0.98594905)"><tspan
+       transform="scale(1.0069284,0.99311927)"><tspan
          sodipodi:role="line"
          id="tspan3786"
-         x="74.3255"
-         y="122.7244"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.43462753px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.26086566">K</tspan></text>
+         x="120.36239"
+         y="87.381493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:89.38947296px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:2.23473644">K</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.33473873px;line-height:1.25;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25836846"
-       x="69.827553"
-       y="123.76422"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.53376007px;line-height:1.25;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.21334386"
+       x="86.773148"
+       y="86.972366"
        id="text3784"
-       transform="scale(1.0240542,0.97651081)"><tspan
+       transform="scale(1.0166606,0.98361238)"><tspan
          sodipodi:role="line"
          id="tspan3782"
-         x="69.827553"
-         y="123.76422"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.33473873px;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.25836846">J</tspan></text>
+         x="86.773148"
+         y="86.972366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.53376007px;font-family:'Bitstream Vera Sans Mono';-inkscape-font-specification:'Bitstream Vera Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:2.21334386">J</tspan></text>
   </g>
 </svg>
